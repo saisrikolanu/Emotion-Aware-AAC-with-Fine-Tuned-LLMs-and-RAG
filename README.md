@@ -59,5 +59,5 @@ The system generates **empathetic, expressive, and personalized responses**, add
 ## ▶️ How to Run
 1. Clone repo:
    ```bash
-   git clone https://github.com/<your-username>/aac-emotion-rag.git
-   cd aac-emotion-rag
+   git clone https://github.com/saisrikolanu/Emotion-Aware-AAC-with-Fine-Tuned-LLMs-and-RAG.git
+   cd Emotion-Aware-AAC-with-Fine-Tuned-LLMs-and-RAG
